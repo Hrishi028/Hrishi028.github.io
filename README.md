@@ -1,2 +1,2 @@
-# Hrishi028.github.io
-[Link text] (https://Hrishi028.github.io.com)
+# Hrishi028.github.io 
+[This is an external link to Hrishi028.github.io](https://Hrishi028.github.io.com)
